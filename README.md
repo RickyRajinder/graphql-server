@@ -1,2 +1,2 @@
 # graphql-server
-GraphQL boilerplate backend
+GraphQL backend boilerplate
