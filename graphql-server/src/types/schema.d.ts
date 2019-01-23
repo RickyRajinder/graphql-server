@@ -36,7 +36,7 @@ declare namespace GQL {
 
   interface IRegisterOnMutationArguments {
     email: string;
-    passoword: string;
+    password: string;
   }
 }
 

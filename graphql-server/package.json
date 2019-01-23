@@ -3,6 +3,7 @@
    "version": "0.0.1",
    "description": "Awesome project developed with TypeORM.",
    "devDependencies": {
+      "@types/bcryptjs": "^2.4.2",
       "@types/node": "^8.0.29",
       "ts-node": "3.3.0",
       "tslint": "^5.12.1",
@@ -10,6 +11,7 @@
       "typescript": "^2.5.2"
    },
    "dependencies": {
+      "bcryptjs": "^2.4.3",
       "graphql-yoga": "^1.17.0",
       "pg": "^7.3.0",
       "reflect-metadata": "^0.1.10",

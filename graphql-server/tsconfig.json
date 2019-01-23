@@ -10,7 +10,7 @@
       "removeComments": true,
       "noImplicitAny": true,
       "strictNullChecks": true,
-      "strictFunctionTypes": true,
+      "strict": true,
       "noImplicitThis": true,
       "noUnusedLocals": true,
       "noUnusedParameters": true,
@@ -18,7 +18,8 @@
       "noFallthroughCasesInSwitch": true,
       "allowSyntheticDefaultImports": false,
       "emitDecoratorMetadata": true,
-      "experimentalDecorators": true
+      "experimentalDecorators": true,
+      "strictPropertyInitialization": false
    },
    "exclude": ["node_modules"],
    "include": ["./src/**/*.tsx", "./src/**/*.ts"]
