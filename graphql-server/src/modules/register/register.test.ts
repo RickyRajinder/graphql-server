@@ -11,8 +11,8 @@ beforeAll( async () => {
     getHost = () => `http://127.0.0.1:${port}`;
 });
 
-const email = "tob@bob.com";
-const password = "fdgdfhdsf";
+const email = "to";
+const password = "fdg";
 
 const mutation = `
 mutation {
